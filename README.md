@@ -47,10 +47,10 @@ PLOS ONE
 ## DOI
 
 https://doi.org/10.1371/journal.pone.0196829
+https://doi.org/10.5281/zenodo.20142268
 
 ## Source Paper
 
-:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -162,7 +162,6 @@ Feature selection was performed using:
 - CfsSubsetEval
 - BestFirst algorithm
 
-Source: :contentReference[oaicite:2]{index=2}
 
 ---
 
